@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-01T09:23:09.216Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 OPR/92.0.0.0" version="20.6.0" etag="3MJxprsI7EbJmuHGaM_0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-01T09:24:38.897Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 OPR/92.0.0.0" version="20.6.0" etag="4YMHOrP3Dn2bGc5VRp6t" type="github">
   <diagram id="7OmHJpSwhK-Y_obriQ0j" name="Page-1">
-    <mxGraphModel dx="1440" dy="1807" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1113" dy="1646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -166,7 +166,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="1ciSNddEploUr1sxx8pW-77" value="In ra màn hình ID, Burst Time, Arrival Time, Finish Time, Turn Around Time, Waiting Time của từng Process" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="90" y="735" width="130" height="130" as="geometry" />
+          <mxGeometry x="100" y="735" width="130" height="130" as="geometry" />
         </mxCell>
         <mxCell id="1ciSNddEploUr1sxx8pW-79" value="T" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="260" y="785" width="30" height="30" as="geometry" />
