@@ -1,9 +1,12 @@
-##########################################
-# University of Information Technology 	 #	 
-# IT007 Operating System                 #                                
-# Nhóm Ubuntu, 21520430_2152115_21521938 #         
-# File: task2-SRTF.py                    #    
-##########################################
+/*#######################################
+# University of Information Technology	#
+# IT007 Operating System		#
+# Nhom Ubuntu:				#
+# 1. Le Xuan Quynh, 21520430		#
+# 2. Truong Gia Man, 21521115		#
+# 3. Nguyen Thanh Dat, 21521938		#
+# File: srtf.cpp			#
+#######################################*/
 
 n = int(input('Enter total number of process: '))   # Nhập số lượng process cần được tính toán
 
